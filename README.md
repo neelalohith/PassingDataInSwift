@@ -1,6 +1,6 @@
 This Repository contains the code for Passing Data between two pages in an IOS App.
 
-The first page contains the text that needs to be displayed on the screen through the text and the button to be clicked along with the time interval set to navigate to the next page:
+The first page should display text and a button with a set time interval to navigate to the next page:
 <img width="285" alt="Screenshot 2024-02-24 at 9 16 19 PM" src="https://github.com/neelalohith/PassingDataInSwift/assets/98219059/a89495c7-562d-4d09-878c-5d00bca6ceed">
 
 After Clicking The button, it's navigated to:
